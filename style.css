@@ -20,7 +20,8 @@
      }
        .sidebar
        {
-       line-height: 4cm;
+       text-align: center;
+       line-height: 1cm;
        font-size-adjust: inherit;
        font-size: 20px;
        height: 100%;
@@ -28,8 +29,8 @@
        position: fixed;
        top: 0;
        left: 0;
-       background-color:#B0B0AF;
-       padding-top: 20px;
+       background-color:#10284b;
+       padding-top: 5cm;
        }
        .centraliser
        {
