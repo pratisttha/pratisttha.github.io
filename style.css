@@ -24,7 +24,17 @@
        padding-top: 5cm;
        }
        
-       
+       .bttn
+       {
+          text-align: center; 
+          font-size: 2cm; 
+          font-weight: bold; 
+          color:#F6612E; 
+          margin-top: 2cm;
+          margin-left: 13cm; 
+          background-color: #09172A; 
+          border: #09172A;
+       }
        .effect
        {
         

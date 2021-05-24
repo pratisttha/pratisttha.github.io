@@ -14,10 +14,20 @@
 </div>
 </head>
 <body>
- <h2 style="text-align: center; font-size: 2cm;  color:#F6612E; margin-top: 5cm;" >WELCOME!</h2>
+    <div class="btn">
+        <button class="bttn" onclick="change()"><p id="here"> WELCOME!</p> </button>
+    </div>
 <div class="text" style="text-align: center; color: #B4B4B4;">
-I would like to welcome to this webpage.<br>
+<p>If you don't like the color of WELCOME! you can click on it to change it.</p>
 </div>
 
+<script>
+    function change()
+    {
+        var welcome = document.getElementById('here');
+        welcome.style.color = 'white';
+        alert('The color will changed to white.');
+    }   
+</script>
 </body>
 </html>
