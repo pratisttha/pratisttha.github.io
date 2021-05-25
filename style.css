@@ -84,3 +84,82 @@ a:hover
 {
      color: #7EA5A1;
 }
+.bfly
+    {
+       display: inline-flex;
+    }
+    .bfly, .bly 
+    {
+        float: left;
+        width: 20cm;
+        padding: 10px;
+        height: 100px;
+    }
+    .owl
+    {
+        display: inline-flex;
+       
+    }
+    .wtr, .pen
+    {
+        float: left;
+        width: 20cm;
+        padding: 10px;
+        height: 100px;
+    }
+    
+    .line
+    {
+        display: inline-flex;
+    }
+    .a, .b
+    {
+        float: left;
+        width: 20cm;
+        padding: 10px;
+        height: 100px;
+    }
+    .water
+    {
+        display: inline-flex;
+    }
+    .ww, .w
+    {
+        float: left;
+        width: 20cm;
+        padding: 10px;
+        height: 100px; 
+    }
+    .tall
+    {
+        display: inline-flex;
+    }
+    .dr, .li
+    {
+        float: left;
+        width: 20cm;
+        padding: 10px;
+        height: 100px; 
+    }
+    .pear
+    {
+        display: inline-flex;
+    }
+    .p, .pw
+    {
+        float: left;
+        width: 20cm;
+        padding: 10px;
+        height: 100px;
+    }
+    .pencil
+    {
+        display: inline-flex;
+    }
+    .sm, .cig
+    {
+        float: left;
+        width: 20cm;
+        padding: 10px;
+        height: 100px; 
+    }
