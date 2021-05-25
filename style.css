@@ -56,8 +56,14 @@
           border: 2px solid #F6612E;
             
        }
+       .intro
+       {
+            margin-left: 7cm;
+            color: #FFF4F5;
+       }
       h2
       {
+           margin-top: 1cm;
            color: #F6612E;
       }
      
