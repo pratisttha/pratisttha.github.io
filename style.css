@@ -64,6 +64,7 @@
        .intro
        {
             margin-left: 7cm;
+            margin-right: 5cm;
             color: #FFF4F5;
        }
       h2
@@ -89,23 +90,11 @@ a:hover
 {
      color: #7EA5A1;
 }
-.bfly
+.bfly, .owl, .line, .water, .tall, .pear, .pencil
     {
        display: inline-flex;
     }
-    .bfly, .bly 
-    {
-        float: left;
-        width: 20cm;
-        padding: 10px;
-        height: 100px;
-    }
-    .owl
-    {
-        display: inline-flex;
-       
-    }
-    .wtr, .pen
+    .bfly, .bly, .wtr, .pen, .a, .b, .ww, .w, .dr, .li, .p, .pw,  .sm, .cig
     {
         float: left;
         width: 20cm;
@@ -113,58 +102,3 @@ a:hover
         height: 100px;
     }
     
-    .line
-    {
-        display: inline-flex;
-    }
-    .a, .b
-    {
-        float: left;
-        width: 20cm;
-        padding: 10px;
-        height: 100px;
-    }
-    .water
-    {
-        display: inline-flex;
-    }
-    .ww, .w
-    {
-        float: left;
-        width: 20cm;
-        padding: 10px;
-        height: 100px; 
-    }
-    .tall
-    {
-        display: inline-flex;
-    }
-    .dr, .li
-    {
-        float: left;
-        width: 20cm;
-        padding: 10px;
-        height: 100px; 
-    }
-    .pear
-    {
-        display: inline-flex;
-    }
-    .p, .pw
-    {
-        float: left;
-        width: 20cm;
-        padding: 10px;
-        height: 100px;
-    }
-    .pencil
-    {
-        display: inline-flex;
-    }
-    .sm, .cig
-    {
-        float: left;
-        width: 20cm;
-        padding: 10px;
-        height: 100px; 
-    }
