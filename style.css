@@ -29,6 +29,11 @@
           color: cornflowerblue;
        }
        
+       .fr
+       {
+           color: #FFF4F5;
+           margin-left: 6cm;
+       }
        .bttn
        {
           text-align: center; 
@@ -78,7 +83,7 @@ a:hover
 }
 a:visited
 {
-     color: #FFF4F5;
+     color: #D1B1A4;
 }
 a:hover
 {
